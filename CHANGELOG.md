@@ -2,7 +2,7 @@
 
 ## Current (in progress)
 
-- Nothing yet
+- Better URL-based License guess [#2672](https://github.com/opendatateam/udata/pull/2672)
 
 ## 3.2.1 (2021-10-22)
 
